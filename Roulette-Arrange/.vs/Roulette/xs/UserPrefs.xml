@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{04BF3063-4256-D7EC-417E-49FE5E2AA6DB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RouletteController.cs">
+    <Files>
+      <File FileName="Assets/RouletteController.cs" Line="25" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Roulette" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="RouletteController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2d0d25ab-d19b-4b51-a1f7-df348a8cae3d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
